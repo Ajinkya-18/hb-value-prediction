@@ -11,3 +11,4 @@ reports/ConvNeXt
 reports/HgbCNN
 reports/ResNet18
 *.pdf
+.env
