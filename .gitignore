@@ -1,0 +1,15 @@
+data/
+.ipynb_checkpoints
+__pycache__/
+*.pyc
+.env
+.vscode/
+.DS_Store
+models/Prediction
+models/yolo
+reports/ConvNeXt
+reports/HgbCNN
+reports/ResNet18
+*.pdf
+*.pt
+*.pth
